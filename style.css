@@ -1,0 +1,13 @@
+body{
+    background-color: #1d3557;
+    color: #f1faee;
+}
+
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 50px;
+    font-family: 'Patrick Hand', cursive;
+}
